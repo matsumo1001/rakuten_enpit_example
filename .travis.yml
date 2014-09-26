@@ -4,7 +4,7 @@ rvm:
 deploy:
   provider: heroku
   api_key:
-    secure: T/rkhibwg2EBQhDVff/E04HWIJVivfR6vNq7aGQUq2cMizDQgi4657ykyQxljHmyrdRFdY7DuPc76qj4Zo+wTxH9OiZPrDHaxacxn8Kd6xPH4asZDsL9oiFf8dEVWS2XOIPwDHLykHr4LIcxoiepqlpGPQ1UREi/DynUJ6umgaY=
-  app: mighty-river-7140
+    secure: ZhlzghomxvBOT3p7/LmziMo25n/LIjLYuHWWuDXkuwLnYZ+eTdr8kzDKAB1j6YgOe+ccPqs3q6AF/HXIFISO0FkYqoQ4G7bv/UCNAbnI2dmBIIH893AqgPLz58+tXneihbNuagpUfAHnvCoR9CcKqOSbtgdqLhiVcq+dxq0JoSk=
+  app: intense-crag-5568
   on:
-    repo: ryuichiueda/rakuten_enpit_example
+    repo: matsumo1001/rakuten_enpit_example
